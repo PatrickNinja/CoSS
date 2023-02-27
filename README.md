@@ -27,6 +27,9 @@ Python and Solidity dataset can be found here: [dataset](https://drive.google.co
 python data_process_python.py
 python data_process_solidity.py
 ```
+### Tools
+The CFG generation tools are provided by [PROGEX](https://github.com/ghaffarian/progex).
+
 ### Model Training
 An example of model training settings:
 ```
