@@ -1,5 +1,5 @@
 # CoSS: leveraging statement semantics for code summarization
-
+Check the paper [CoSS: leveraging statement semantics for code summarization](https://drive.google.com/file/d/1Hw8as_GjRFkUh6Gf_x_71kUDo2pFVcO2/view?usp=sharing).
 ### Dependences
 - python 3.7
 - torch == 1.4.0
@@ -13,6 +13,7 @@
 To download and pre-process java dataset:
 
 ```
+mkdir dataset
 cd dataset
 wget -q https://s3.amazonaws.com/code-search-net/CodeSearchNet/v2/java.zip
 unzip -qq java.zip
@@ -21,7 +22,7 @@ cd ..
 python data_process_java.py
 ```
 
-Python and Soldity datasets have been washed and stored in ./dataset
+Python and Solidity dataset can be found here: [dataset](https://drive.google.com/drive/folders/1of6Q9sYaUVCjn4xJSrjcyclXTnjBmCYl?usp=sharing). Put the dataset folder under the root directory and preprocess:
 ```
 python data_process_python.py
 python data_process_solidity.py
