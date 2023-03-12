@@ -1,5 +1,6 @@
 # CoSS: leveraging statement semantics for code summarization
 Check the paper [CoSS: leveraging statement semantics for code summarization](https://drive.google.com/file/d/1Hw8as_GjRFkUh6Gf_x_71kUDo2pFVcO2/view?usp=sharing).
+Contact: shi_research@163.com
 ### Dependences
 - python 3.7
 - torch == 1.4.0
