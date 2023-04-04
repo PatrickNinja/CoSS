@@ -28,6 +28,8 @@ Python and Solidity dataset can be found here: [dataset](https://drive.google.co
 python data_process_python.py
 python data_process_solidity.py
 ```
+
+We use Bart vocab as the word list.
 ### Tools
 The CFG generation tools are provided by [PROGEX](https://github.com/ghaffarian/progex).
 
