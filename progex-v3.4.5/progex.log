@@ -1,0 +1,20 @@
+======= LOG CREATED on Tue 2023/Mar/14 13:07:06:006 =======
+
+PROGEX (Program Graph Extractor)  [ v3.4.5 ]
+Visit project website @ https://github.com/ghaffarian/progex
+
+PROGEX execution config:
+  Language = Java
+  Output format = DOT
+  Output directory = /home/powerop/work/test/test2/data/train/1/
+  Analysis types = [CFG]
+  Input paths = 
+        /home/powerop/work/test/test2/data/train/1
+
+
+# Java source files = 1
+
+
+Control-Flow Analysis
+=====================
+CFG exported to: /home/powerop/work/test/test2/data/train/1/java_1-CFG.dot
