@@ -1,4 +1,8 @@
+
 # CoSS: leveraging statement semantics for code summarization
+**UPDATE: There are some errors in the current code, please do not train or execute until we fix them. We apologize for any inconvenience.**
+
+
 Check the paper [CoSS: leveraging statement semantics for code summarization](https://drive.google.com/file/d/1Hw8as_GjRFkUh6Gf_x_71kUDo2pFVcO2/view?usp=sharing).
 Contact: shi_research@163.com
 ### Dependences
